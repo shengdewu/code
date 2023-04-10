@@ -1,0 +1,210 @@
+﻿Build started 2019/8/1 11:21:46.
+     1>Project "I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.8\TestDemo_C\TestDemo_C.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\TestDemo_C.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+       InitializeBuildStatus:
+         Creating "Debug\TestDemo_C.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         G:\Software\VS2010\VC\bin\CL.exe /c /IG:\Software\vld\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D TESTDEMO_C_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt f_AffineTransfrom.cpp f_AutoBigeye.cpp f_AutoFacelift.cpp f_BeautyCamera.cpp f_BeautyIris.cpp f_BigEye.cpp f_Commen_MixLayer.cpp f_EyeBrow.cpp f_EyeLash.cpp f_EyeLid.cpp f_EyeLine.cpp f_EyeShadow.cpp f_FaceBlush.cpp f_GaussFilter.cpp f_IDW.cpp f_LaplaceSharpen.cpp f_LipsRecolor.cpp f_LUTFilter.cpp f_MakeupBase.cpp f_MeanFilter.cpp f_SkinColor.cpp f_SkinDetect.cpp f_SkinPDF.cpp f_SteroNose.cpp TRGB2HSV.cpp TRGB2YCbCr.cpp TRGB2YUV.cpp
+         TRGB2YUV.cpp
+         TRGB2YCbCr.cpp
+         TRGB2HSV.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(10): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(11): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(18): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(22): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\trgb2hsv.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         f_SteroNose.cpp
+         f_SkinPDF.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skinpdf.cpp(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skinpdf.cpp(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skinpdf.cpp(46): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_SkinDetect.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skindetect.cpp(34): warning C4002: too many actual parameters for macro 'MAX2'
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skindetect.cpp(34): warning C4002: too many actual parameters for macro 'MIN2'
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skindetect.cpp(96): warning C4101: 'Cb' : unreferenced local variable
+         f_SkinColor.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_skincolor.cpp(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         f_MeanFilter.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_meanfilter.cpp(15): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_meanfilter.cpp(49): warning C4244: '=' : conversion from 'long' to 'unsigned char', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_meanfilter.cpp(50): warning C4244: '=' : conversion from 'long' to 'unsigned char', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_meanfilter.cpp(51): warning C4244: '=' : conversion from 'long' to 'unsigned char', possible loss of data
+         f_MakeupBase.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(37): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(38): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(30): warning C4101: 'AB' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'y0' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'index_x0y1' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(32): warning C4101: 'tmp2' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'index_x1y0' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(30): warning C4101: 'AR' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(32): warning C4101: 'tmp1' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(32): warning C4101: 'disX' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'index_x1y1' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(30): warning C4101: 'AG' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'x0' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(30): warning C4101: 'AA' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(32): warning C4101: 'disY' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(31): warning C4101: 'index_x0y0' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(174): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(174): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(178): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(179): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(183): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(184): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(213): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(213): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(217): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(218): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(222): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(223): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(269): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_makeupbase.cpp(270): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_LUTFilter.cpp
+         f_LipsRecolor.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(55): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_lipsrecolor.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         f_LaplaceSharpen.cpp
+         f_IDW.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_idw.cpp(13): warning C4101: 'pos1' : unreferenced local variable
+         f_GaussFilter.cpp
+         f_FaceBlush.cpp
+         f_EyeShadow.cpp
+         f_EyeLine.cpp
+         f_EyeLid.cpp
+         f_EyeLash.cpp
+         f_EyeBrow.cpp
+         Generating Code...
+         Compiling...
+         f_Commen_MixLayer.cpp
+         f_BigEye.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_bigeye.cpp(36): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_bigeye.cpp(42): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_bigeye.cpp(43): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_BeautyIris.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_beautyiris.cpp(57): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_beautyiris.cpp(77): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_beautyiris.cpp(103): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_beautyiris.cpp(132): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_BeautyCamera.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_beautycamera.cpp(54): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         f_AutoFacelift.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(23): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(24): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(25): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(26): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(27): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(28): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(29): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(30): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(31): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(32): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(33): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(34): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(43): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(44): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(45): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(46): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(47): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(48): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(22): warning C4101: 'K1' : unreferenced local variable
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autofacelift.cpp(22): warning C4101: 'K2' : unreferenced local variable
+         f_AutoBigeye.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_autobigeye.cpp(29): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_AffineTransfrom.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(54): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(55): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(56): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(57): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(58): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(59): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(60): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(61): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(85): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(86): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(94): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第五章\5\code\5.8\testdemo_c\f_affinetransfrom.cpp(95): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         G:\Software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\TestDemo\bin\Debug\TestDemo_C.dll" /INCREMENTAL /NOLOGO /LIBPATH:G:\Software\vld\lib\Win32 kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestDemo_C.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.8\TestDemo\bin\Debug\TestDemo_C.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\TestDemo\bin\Debug\TestDemo_C.lib" /MACHINE:X86 /DLL Debug\f_AffineTransfrom.obj
+         Debug\f_AutoBigeye.obj
+         Debug\f_AutoFacelift.obj
+         Debug\f_BeautyCamera.obj
+         Debug\f_BeautyIris.obj
+         Debug\f_BigEye.obj
+         Debug\f_Commen_MixLayer.obj
+         Debug\f_EyeBrow.obj
+         Debug\f_EyeLash.obj
+         Debug\f_EyeLid.obj
+         Debug\f_EyeLine.obj
+         Debug\f_EyeShadow.obj
+         Debug\f_FaceBlush.obj
+         Debug\f_GaussFilter.obj
+         Debug\f_IDW.obj
+         Debug\f_LaplaceSharpen.obj
+         Debug\f_LipsRecolor.obj
+         Debug\f_LUTFilter.obj
+         Debug\f_MakeupBase.obj
+         Debug\f_MeanFilter.obj
+         Debug\f_SkinColor.obj
+         Debug\f_SkinDetect.obj
+         Debug\f_SkinPDF.obj
+         Debug\f_SteroNose.obj
+         Debug\TRGB2HSV.obj
+         Debug\TRGB2YCbCr.obj
+         Debug\TRGB2YUV.obj
+            Creating library ..\TestDemo\bin\Debug\TestDemo_C.lib and object ..\TestDemo\bin\Debug\TestDemo_C.exp
+         TestDemo_C.vcxproj -> I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.8\TestDemo_C\..\TestDemo\bin\Debug\TestDemo_C.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.8\TestDemo_C\..\TestDemo\bin\Debug\TestDemo_C.dll.manifest" /manifest Debug\TestDemo_C.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\TestDemo_C.unsuccessfulbuild".
+         Touching "Debug\TestDemo_C.lastbuildstate".
+     1>Done Building Project "I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.8\TestDemo_C\TestDemo_C.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33

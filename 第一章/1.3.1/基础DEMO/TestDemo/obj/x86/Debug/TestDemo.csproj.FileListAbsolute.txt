@@ -1,0 +1,14 @@
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\bin\Debug\TestDemo.exe
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\bin\Debug\TestDemo.pdb
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.Cache
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+F:\工作项目\滤镜\测试工程\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\bin\Debug\TestDemo.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\bin\Debug\TestDemo.pdb
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.Cache
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\obj\x86\Debug\TestDemo.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第一章\代码\1.3.1\基础DEMO\TestDemo\obj\x86\Debug\TestDemo.pdb

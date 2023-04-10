@@ -1,0 +1,58 @@
+﻿Build started 9/30/2019 9:33:00 AM.
+     1>Project "I:\MYBOOK\作者文件\资源\书籍初稿\第三章\第3节\代码\3.13\TestDemo_C\TestDemo_C.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Release\TestDemo_C.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         G:\Software\VS2010\VC\bin\CL.exe /c /IG:\Software\vld\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D TESTDEMO_C_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt f_GaussFilter.cpp f_LUTFilter.cpp f_SkinDetect.cpp f_SkinPDF.cpp f_SkinColor.cpp f_SmartBlur.cpp f_SoftSkin.cpp TRGB2HSV.cpp TRGB2YCbCr.cpp
+         f_GaussFilter.cpp
+         f_LUTFilter.cpp
+         f_SkinDetect.cpp
+     1>f_SkinDetect.cpp(34): warning C4002: too many actual parameters for macro 'MAX2'
+     1>f_SkinDetect.cpp(34): warning C4002: too many actual parameters for macro 'MIN2'
+     1>f_SkinDetect.cpp(96): warning C4101: 'Cb' : unreferenced local variable
+         f_SkinPDF.cpp
+     1>f_SkinPDF.cpp(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f_SkinPDF.cpp(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f_SkinPDF.cpp(46): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         f_SkinColor.cpp
+     1>f_SkinColor.cpp(31): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         f_SmartBlur.cpp
+         f_SoftSkin.cpp
+     1>f_SoftSkin.cpp(42): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         TRGB2HSV.cpp
+     1>TRGB2HSV.cpp(10): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(11): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(18): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(22): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TRGB2HSV.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         TRGB2YCbCr.cpp
+       Link:
+         G:\Software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\TestDemo\bin\Release\TestDemo_C.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:G:\Software\vld\lib\Win32 kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\TestDemo_C.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"I:\MYBOOK\作者文件\资源\书籍初稿\第三章\第3节\代码\3.13\TestDemo\bin\Release\TestDemo_C.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\TestDemo\bin\Release\TestDemo_C.lib" /MACHINE:X86 /DLL Release\f_GaussFilter.obj
+         Release\f_LUTFilter.obj
+         Release\f_SkinDetect.obj
+         Release\f_SkinPDF.obj
+         Release\f_SkinColor.obj
+         Release\f_SmartBlur.obj
+         Release\f_SoftSkin.obj
+         Release\TRGB2HSV.obj
+         Release\TRGB2YCbCr.obj
+            Creating library ..\TestDemo\bin\Release\TestDemo_C.lib and object ..\TestDemo\bin\Release\TestDemo_C.exp
+         Generating code
+         Finished generating code
+         TestDemo_C.vcxproj -> I:\MYBOOK\作者文件\资源\书籍初稿\第三章\第3节\代码\3.13\TestDemo_C\..\TestDemo\bin\Release\TestDemo_C.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"I:\MYBOOK\作者文件\资源\书籍初稿\第三章\第3节\代码\3.13\TestDemo_C\..\TestDemo\bin\Release\TestDemo_C.dll.manifest" /manifest Release\TestDemo_C.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\TestDemo_C.unsuccessfulbuild".
+         Touching "Release\TestDemo_C.lastbuildstate".
+     1>Done Building Project "I:\MYBOOK\作者文件\资源\书籍初稿\第三章\第3节\代码\3.13\TestDemo_C\TestDemo_C.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.75

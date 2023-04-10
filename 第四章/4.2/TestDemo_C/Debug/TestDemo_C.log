@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(386,5): error MSB3374: 无法设置文件“Debug\TestDemo_C.tlog\unsuccessfulbuild”的上次访问/写入时间。对路径“Debug\TestDemo_C.tlog\unsuccessfulbuild”的访问被拒绝。

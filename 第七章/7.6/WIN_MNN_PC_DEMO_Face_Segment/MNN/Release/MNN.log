@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  f_GaussFilter.cpp
+  f_LUTFilter.cpp
+  f_SkinPDF.cpp
+f_SkinPDF.cpp(15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f_SkinPDF.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f_SkinPDF.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f_SkinPDF.cpp(46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  f_SkinWhite.cpp
+f_SkinWhite.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f_SkinWhite.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f_SkinWhite.cpp(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f_SkinWhite.cpp(87): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f_SkinWhite.cpp(88): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f_SkinWhite.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  f_SmartBlur.cpp
+  f_SoftSkin.cpp
+f_SoftSkin.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ImageEngine.cpp
+  MNN.cpp
+MNN.cpp(101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(136): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(160): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+MNN.cpp(161): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+MNN.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(180): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(214): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(218): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(222): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(251): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(255): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MNN.cpp(259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TRGB2YCbCr.cpp
+     Creating library ..\MNN_DEMO\bin\Release\TestDemo_C.lib and object ..\MNN_DEMO\bin\Release\TestDemo_C.exp
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class MNN::Tensor * __cdecl MNN::Tensor::createHostTensorFromDevice(class MNN::Tensor const *,bool)" (__imp_?createHostTensorFromDevice@Tensor@MNN@@SAPAV12@PBV12@_N@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall MNN::Tensor::~Tensor(void)" (__imp_??1Tensor@MNN@@QAE@XZ)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall MNN::Interpreter::resizeTensor(class MNN::Tensor *,class std::vector<int,class std::allocator<int> > const &)" (__imp_?resizeTensor@Interpreter@MNN@@QAEXPAVTensor@2@ABV?$vector@HV?$allocator@H@std@@@std@@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class MNN::Tensor * __thiscall MNN::Interpreter::getSessionOutput(class MNN::Session const *,char const *)" (__imp_?getSessionOutput@Interpreter@MNN@@QAEPAVTensor@2@PBVSession@2@PBD@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class MNN::Tensor * __thiscall MNN::Interpreter::getSessionInput(class MNN::Session const *,char const *)" (__imp_?getSessionInput@Interpreter@MNN@@QAEPAVTensor@2@PBVSession@2@PBD@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: enum MNN::ErrorCode __thiscall MNN::Interpreter::runSession(class MNN::Session *)const " (__imp_?runSession@Interpreter@MNN@@QBE?AW4ErrorCode@2@PAVSession@2@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall MNN::Interpreter::resizeSession(class MNN::Session *)" (__imp_?resizeSession@Interpreter@MNN@@QAEXPAVSession@2@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class MNN::Session * __thiscall MNN::Interpreter::createSession(struct MNN::ScheduleConfig const &)" (__imp_?createSession@Interpreter@MNN@@QAEPAVSession@2@ABUScheduleConfig@2@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall MNN::Interpreter::~Interpreter(void)" (__imp_??1Interpreter@MNN@@QAE@XZ)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class MNN::Interpreter * __cdecl MNN::Interpreter::createFromFile(char const *)" (__imp_?createFromFile@Interpreter@MNN@@SAPAV12@PBD@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall MNN::CV::Matrix::postScale(float,float)" (__imp_?postScale@Matrix@CV@MNN@@QAEXMM@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: enum MNN::ErrorCode __thiscall MNN::CV::ImageProcess::convert(unsigned char const *,int,int,int,class MNN::Tensor *)" (__imp_?convert@ImageProcess@CV@MNN@@QAE?AW4ErrorCode@3@PBEHHHPAVTensor@3@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall MNN::CV::ImageProcess::setMatrix(class MNN::CV::Matrix const &)" (__imp_?setMatrix@ImageProcess@CV@MNN@@QAEXABVMatrix@23@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall MNN::CV::ImageProcess::~ImageProcess(void)" (__imp_??1ImageProcess@CV@MNN@@QAE@XZ)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class MNN::CV::ImageProcess * __cdecl MNN::CV::ImageProcess::create(struct MNN::CV::ImageProcess::Config const &,class MNN::Tensor const *)" (__imp_?create@ImageProcess@CV@MNN@@SAPAV123@ABUConfig@123@PBVTensor@3@@Z)
+MNN.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall MNN::CV::Matrix::Matrix(void)" (__imp_??0Matrix@CV@MNN@@QAE@XZ)
+..\MNN_DEMO\bin\Release\TestDemo_C.dll : fatal error LNK1120: 16 unresolved externals

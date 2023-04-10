@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\bin\Debug\TestDemo.exe.config
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\bin\Debug\TestDemo.exe
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\bin\Debug\TestDemo.pdb
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.exe
+\\vmware-host\Shared Folders\workspace\Code\第四章\4.2\TestDemo\obj\x86\Debug\TestDemo.pdb

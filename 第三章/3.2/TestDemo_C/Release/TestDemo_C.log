@@ -1,0 +1,18 @@
+﻿Build started 2018/10/24 16:09:56.
+     1>Project "F:\Trent\doc\CODE\002SurfaceBlur\TestDemo_C\TestDemo_C.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Release\TestDemo_C.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         TestDemo_C.vcxproj -> F:\Trent\doc\CODE\002SurfaceBlur\TestDemo_C\..\TestDemo\bin\Release\TestDemo_C.dll
+       FinalizeBuildStatus:
+         Deleting file "Release\TestDemo_C.unsuccessfulbuild".
+         Touching "Release\TestDemo_C.lastbuildstate".
+     1>Done Building Project "F:\Trent\doc\CODE\002SurfaceBlur\TestDemo_C\TestDemo_C.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

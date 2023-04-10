@@ -1,0 +1,23 @@
+﻿Build started 2019/4/4 10:26:13.
+     1>Project "I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第二章\代码\2.3\TestDemo_C\TestDemo_C.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Debug\TestDemo_C.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         G:\Software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D TESTDEMO_C_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt f_SphereFilter.cpp
+         f_SphereFilter.cpp
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第二章\代码\2.3\testdemo_c\f_spherefilter.cpp(29): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第二章\代码\2.3\testdemo_c\f_spherefilter.cpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>i:\a\me\君子兰\004工作\mybook\作者文件\资源\书籍初稿\第二章\代码\2.3\testdemo_c\f_spherefilter.cpp(34): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         G:\Software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\TestDemo\bin\Debug\TestDemo_C.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第二章\代码\2.3\TestDemo\bin\Debug\TestDemo_C.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\TestDemo\bin\Debug\TestDemo_C.lib" /MACHINE:X86 /DLL Debug\f_SphereFilter.obj
+            Creating library ..\TestDemo\bin\Debug\TestDemo_C.lib and object ..\TestDemo\bin\Debug\TestDemo_C.exp
+         TestDemo_C.vcxproj -> I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第二章\代码\2.3\TestDemo_C\..\TestDemo\bin\Debug\TestDemo_C.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\TestDemo_C.unsuccessfulbuild".
+         Touching "Debug\TestDemo_C.lastbuildstate".
+     1>Done Building Project "I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第二章\代码\2.3\TestDemo_C\TestDemo_C.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24

@@ -1,0 +1,7 @@
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\bin\Release\TestDemo.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\bin\Release\TestDemo.pdb
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\obj\x86\Release\TestDemo.Form1.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\obj\x86\Release\TestDemo.Properties.Resources.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\obj\x86\Release\TestDemo.csproj.GenerateResource.Cache
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\obj\x86\Release\TestDemo.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第五章\5\Code\5.4\TestDemo\obj\x86\Release\TestDemo.pdb

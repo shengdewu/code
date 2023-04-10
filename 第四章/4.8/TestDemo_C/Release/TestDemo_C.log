@@ -1,0 +1,28 @@
+﻿Build started 2019/3/20 14:43:38.
+     1>Project "F:\Trent\doc\4\Code\4.8\TestDemo_C\TestDemo_C.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Release\TestDemo_C.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         G:\Software\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D TESTDEMO_C_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt f_BigEye.cpp
+         f_BigEye.cpp
+     1>f_BigEye.cpp(36): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>f_BigEye.cpp(42): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>f_BigEye.cpp(43): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         G:\Software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\TestDemo\bin\Release\TestDemo_C.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\TestDemo_C.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Trent\doc\4\Code\4.8\TestDemo\bin\Release\TestDemo_C.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\TestDemo\bin\Release\TestDemo_C.lib" /MACHINE:X86 /DLL Release\f_AutoBigeye.obj
+         Release\f_BigEye.obj
+            Creating library ..\TestDemo\bin\Release\TestDemo_C.lib and object ..\TestDemo\bin\Release\TestDemo_C.exp
+         Generating code
+         Finished generating code
+         TestDemo_C.vcxproj -> F:\Trent\doc\4\Code\4.8\TestDemo_C\..\TestDemo\bin\Release\TestDemo_C.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"F:\Trent\doc\4\Code\4.8\TestDemo_C\..\TestDemo\bin\Release\TestDemo_C.dll.manifest" /manifest Release\TestDemo_C.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\TestDemo_C.unsuccessfulbuild".
+         Touching "Release\TestDemo_C.lastbuildstate".
+     1>Done Building Project "F:\Trent\doc\4\Code\4.8\TestDemo_C\TestDemo_C.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99

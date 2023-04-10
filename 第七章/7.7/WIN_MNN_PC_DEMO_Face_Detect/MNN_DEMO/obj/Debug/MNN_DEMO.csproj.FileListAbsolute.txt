@@ -1,0 +1,9 @@
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\bin\Debug\MNN_DEMO.exe.config
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\bin\Debug\MNN_DEMO.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\bin\Debug\MNN_DEMO.pdb
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.Form1.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.Properties.Resources.resources
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.csproj.GenerateResource.Cache
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.exe
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.pdb
+I:\A\ME\君子兰\004工作\MYBOOK\作者文件\资源\书籍初稿\第七章\Code\7.7\WIN_MNN_PC_DEMO_Face_Detect\MNN_DEMO\obj\Debug\MNN_DEMO.csprojResolveAssemblyReference.cache
